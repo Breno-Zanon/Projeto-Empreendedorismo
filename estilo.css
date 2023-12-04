@@ -14,7 +14,7 @@ body {
 
 /* Estilo do header */
 header img {
-    width: 100%;
+    width: 150%;
 }
 
 /* Estilo da seção "Sobre o Projeto" */
@@ -29,6 +29,7 @@ header img {
 .sobre-mim h1 {
     font-size: 40px;
     padding: 1em;
+    text-align: center;
 }
 
 .sobre-mim{
@@ -39,7 +40,7 @@ header img {
 .sobre-mim h1{
     font-size: 40px;
     text-align: center;
-    padding: 1em
+    padding: 1em;
 }
 
 .cor-projetos{
